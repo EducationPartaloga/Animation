@@ -31,6 +31,8 @@ window.addEventListener("load", (event) => {
         action2 = false,
         action3 = false;
 
+        
+
     scrollbar.addListener(function(status) {
 
         if (status.offset.y === 0)  {
